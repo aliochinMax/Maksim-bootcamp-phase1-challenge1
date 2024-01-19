@@ -4,7 +4,7 @@ Challenge 1 for edx skills for life.
 
 ## Description
 
-A ticket problem where the objective is to refactor the code to be more accessible and use semantic tags and alt tags on all images. The goal is to meet all acceptance criteria and ensure that
+A ticket problem where the objective is to refactor the code to be more accessible and use semantic tags and alt tags on all images. This project is solely for HTML practice.
 
 ## User story
 
